@@ -40,4 +40,4 @@ d2fadef3fa6c11eb8ccbd2efa afzal ali 11 agu
 e6626d3efa7811eb899ae6625 owner c
 33fa136100000000030033fa1 arslan ali shanwar 11 agu
 5fff06eef44f11eb88af5fe44 waqas 12 agu
-6c47a222f37411eba7906c479 farhan 14 agu
+a077509efe9411ebbe9ca076d farhan 14 agu
