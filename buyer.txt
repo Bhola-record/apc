@@ -30,7 +30,7 @@ cac8ccf0f5f811eb911ecac1f ahsan 5 agu
 11a9b70ef9de11ebb53011a99 mergan 9 agu
 ed65ef61f92511ebb539ed3a4 md uzair khan 9 agu
 3128e802f93c11eb855530eb2 faizan 9 agu
-10114730fb4711eb84c70fe68 anas yousaf 10 agu
+f3862f6303f811ec89b5f366a-apc anas yousaf 10 agu
 cfa34526f9cb11ebb1fccf820 sheraz 10 agu
 45ee46c7f9d011eba8c545c01 sheraz 10 agu
 98b274dc00e011ec960d9895a sheraz 15 agu
