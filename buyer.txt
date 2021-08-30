@@ -25,7 +25,7 @@ cac8ccf0f5f811eb911ecac1f ahsan 5 agu
 1fea3468f78611eb98491fd94 waqas 7 agu
 27f9425cf83f11ebb49327cce memon 8 agu
 9bafba7af8bf11eba31a9b8d6 muneeb asif 9 agu
-d8bc684a055b11eca685d882a-apc faheem 9 agu
+c75c6197090411ec8a84c722b-apc faheem 9 agu
 8a620e8ff89011eb9f3c8a28e ghaalib mehndi 
 7b76798006b911ec9eb97b4f9-apc mergan 9 agu
 9f908cc2ff1b11eb9ec69f5ad-apc md uzair khan 9 agu
@@ -53,7 +53,7 @@ ca990382ff1a11eba1fbca98e-apc Sammer 17 agu
 7553ea21060e11eca3f275333-apc majid hussain 20 agu
 08cfc92605b611ec929e08a4c-apc sadam 25 agu
 76fb80e6075e11ecb01176c3e-apc sana 27 agu
-0223186e07b711ecb2cc020a5-apc nadeem ahmed 28 agu
+1b757b4508f011ec8db41b69a-apc naveed ahmed 28 agu
 449c500207cd11ecb1d9447ab-apc tahir malik 28 agu
 6c19c628076411ecbd9a6c19a-apc aftab baloch 28 agu
 e698656605d511ecac9ae6463-apc asif 29 agu
